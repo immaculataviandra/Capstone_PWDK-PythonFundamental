@@ -32,11 +32,8 @@ Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk
    ├── Immaculata Viandra_Capstone M1.py   # Script utama aplikasi
    └── README.md                           # Dokumentasi proyek
 
-## 📷 Contoh Tampilan 
+## Contoh Tampilan 
 Menu Utama:
-
-markdown
-
 === Selamat Datang di XYZ Rental Motor ===
 1. Lihat Daftar Motor
 2. Tambah Motor
@@ -45,8 +42,6 @@ markdown
 5. Keluar
 
 Tabel Daftar Motor:
-
-diff
 +---------+--------------+---------+--------------+---------+
 | Index   | Merk Motor   | Stock   | Tipe Motor   | Harga   |
 +=========+==============+=========+==============+=========+
