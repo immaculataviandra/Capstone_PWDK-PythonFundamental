@@ -1,4 +1,4 @@
-# Capstone_PWDK-PythonFundamental
+# Capstone1 PWDK - PythonFundamental
 # 🛵 XYZ Rental Motor - Sistem Penyewaan Motor Sederhana
 
 Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk mengelola penyewaan motor pada rental. Aplikasi ini memungkinkan pengguna untuk melihat, menambah, menghapus, dan menyewa motor, serta melakukan pembayaran dengan rekap transaksi yang rapi.
@@ -22,7 +22,7 @@ Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk
 2. **Install library `tabulate` jika belum terpasang**:
    ```bash
    pip install tabulate
-2. **Install library `tabulate` jika belum terpasang**:
+2. **Jalankan program di terminal:**:
    ```bash
    python Immaculata\ Viandra_Capstone\ M1.py
 
@@ -55,7 +55,7 @@ diff
 | 1       | Honda        | 5       | Sport        | 60000   |
 +---------+--------------+---------+--------------+---------+
 
-## 📌 Catatan
+📌 Catatan
 1. Aplikasi ini hanya berbasis CLI/terminal.
 2. Belum terdapat penyimpanan permanen (data tidak disimpan setelah program ditutup).
 3. Program cocok untuk latihan CRUD dan logika transaksi dasar dalam Python.
