@@ -36,8 +36,7 @@ Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk
 Menu Utama:
 
 markdown
-Copy
-Edit
+
 === Selamat Datang di XYZ Rental Motor ===
 1. Lihat Daftar Motor
 2. Tambah Motor
