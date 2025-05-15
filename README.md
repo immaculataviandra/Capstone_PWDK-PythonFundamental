@@ -5,10 +5,10 @@ Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk
 
 ## 📌 Fitur Utama
 
-- ✅ **Lihat Daftar Motor**: Menampilkan daftar motor yang tersedia beserta detailnya.
-- ➕ **Tambah Motor**: Menambahkan motor baru ke dalam sistem.
-- ❌ **Hapus Motor**: Menghapus motor dari daftar berdasarkan index.
-- 🛒 **Sewa Motor**: Melakukan proses penyewaan motor, mengurangi stok, dan mencatat lamanya sewa.
+- ✅ **Lihat Daftar Motor**: Menampilkan daftar motor yang tersedia beserta detailnya. [READ]
+- ➕ **Tambah Motor**: Menambahkan motor baru ke dalam sistem. [CREATE]
+- ❌ **Hapus Motor**: Menghapus motor dari daftar berdasarkan index. [DELETE]
+- 🛒 **Sewa Motor**: Melakukan proses penyewaan motor, mengurangi stok, dan mencatat lamanya sewa. [UPDATE]
 - 🧾 **Rekap & Pembayaran**: Menampilkan ringkasan transaksi dan menghitung total biaya dan kembalian.
 
 ## ⚙️ Teknologi yang Digunakan
