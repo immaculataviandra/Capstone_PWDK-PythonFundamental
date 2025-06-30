@@ -1,4 +1,4 @@
-# Capstone1 PWDK - PythonFundamental
+# Capstone 1 - PythonFundamental
 # 🛵 XYZ Rental Motor - Sistem Penyewaan Motor Sederhana
 
 Proyek ini merupakan aplikasi terminal sederhana yang dibuat dengan Python untuk mengelola penyewaan motor pada rental. Aplikasi ini memungkinkan pengguna untuk melihat, menambah, menghapus, dan menyewa motor, serta melakukan pembayaran dengan rekap transaksi yang rapi.
